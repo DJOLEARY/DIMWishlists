@@ -1,0 +1,5 @@
+title:coolguys_recommendations
+
+// Ogma PR6 (god-pve)
+//notes: Gain almost 20% grenade ability energy per kill tags:god-pve
+dimwishlist:item=2342054803&perks=3523296417,3592538738
