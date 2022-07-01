@@ -171,3 +171,23 @@ dimwishlist:item=4096943616&perks=3525010810,2822142346,3300816228,1683379515
 dimwishlist:item=4096943616&perks=3525010810,2822142346,3300816228,2216471363
 dimwishlist:item=4096943616&perks=3525010810,2822142346,3528046508,1683379515
 dimwishlist:item=4096943616&perks=3525010810,2822142346,3528046508,2216471363
+
+
+// New Purpose - CoolGuy recommendation (pvp)
+//notes: CoolGuy recommendation: https://youtu.be/AoJXfIlvjI0 tags:pvp
+dimwishlist:item=1780464822&perks=509074078,438098033
+
+
+// New Purpose - CoolGuy recommendation (pvp)
+//notes: CoolGuy recommendation: https://youtu.be/AoJXfIlvjI0 tags:pvp
+dimwishlist:item=1780464822&perks=744594675,3047969693
+
+
+// New Purpose - CoolGuy recommendation (pve)
+//notes: CoolGuy recommendation: https://youtu.be/AoJXfIlvjI0 tags:pve
+dimwishlist:item=1780464822&perks=1048183818
+
+
+// New Purpose - CoolGuy recommendation (pvp)
+//notes: CoolGuy recommendation: https://youtu.be/AoJXfIlvjI0 tags:pvp
+dimwishlist:item=1780464822&perks=2946784966,3047969693
